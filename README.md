@@ -9,5 +9,3 @@
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=n-o-u-r&show_icons=true&theme=dark&locale=en&layout=compact" alt="n-o-u-r" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=n-o-u-r&" alt="n-o-u-r" /></p>
