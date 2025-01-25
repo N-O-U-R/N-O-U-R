@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhammad Nour Alkhalaf</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=n-o-u-r&label=Profile%20views&color=0e75b6&style=flat" alt="n-o-u-r" /> </p>
 
-- 🔭 I’m currently working on Enhancing my PC Setup Recommendation Platform [Smart PC Setup Recommender](https://github.com/N-O-U-R/PcPartPicker-Scraping)
-
-- 🌱 I’m currently learning **Advanced deep learning techniques and cloud technologies**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mohamed-nour-a-01m01n01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed-nour-a-01m01n01" height="30" width="40" /></a>
